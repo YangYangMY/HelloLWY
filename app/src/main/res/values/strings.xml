@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello LWY</string>
+    <string name="my_name">Lee Wee Yan</string>
+    <string name="hide">Hide</string>
+    <string name="show">Show</string>
+    <string name="qr_description">qr Code</string>
+</resources>
